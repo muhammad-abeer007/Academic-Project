@@ -1,0 +1,451 @@
+Working_injury,Age,Eating_location,Arrested_by_police,Smoke
+Yes,from 11  to 14,Street Shop,Yes,Yes
+Yes,more than 14,Street Shop,Yes,Yes
+No,from 11  to 14,Begging or collecting from dustbin,No,No
+Yes,less than 11,Begging or collecting from dustbin,Yes,No
+Yes,from 11  to 14,Street Shop,Yes,No
+Yes,from 11  to 14,Street Shop,Yes,No
+Yes,from 11  to 14,Begging or collecting from dustbin,Yes,No
+Yes,more than 14,Street Shop,No,No
+Yes,less than 11,Street Shop,Yes,Yes
+Yes,more than 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,more than 14,Street Shop,Yes,No
+Yes,more than 14,Street Shop,Yes,Yes
+Yes,less than 11,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Begging or collecting from dustbin,Yes,No
+Yes,more than 14,Street Shop,No,Yes
+Yes,less than 11,Begging or collecting from dustbin,No,Yes
+No,from 11  to 14,Begging or collecting from dustbin,No,Yes
+Yes,from 11  to 14,Begging or collecting from dustbin,No,No
+Yes,more than 14,Begging or collecting from dustbin,No,No
+No,from 11  to 14,Begging or collecting from dustbin,No,No
+Yes,from 11  to 14,Begging or collecting from dustbin,Yes,No
+Yes,more than 14,Begging or collecting from dustbin,Yes,Yes
+Yes,more than 14,Street Shop,Yes,Yes
+Yes,from 11  to 14,Street Shop,Yes,No
+No,more than 14,Street Shop,No,Yes
+No,from 11  to 14,Begging or collecting from dustbin,No,No
+Yes,from 11  to 14,Street Shop,Yes,Yes
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,Yes
+No,more than 14,Street Shop,Yes,No
+No,from 11  to 14,Begging or collecting from dustbin,No,No
+No,from 11  to 14,Street Shop,No,No
+No,more than 14,Begging or collecting from dustbin,No,No
+No,from 11  to 14,Street Shop,No,No
+No,less than 11,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,Yes
+No,more than 14,Street Shop,Yes,Yes
+No,from 11  to 14,Begging or collecting from dustbin,No,Yes
+No,from 11  to 14,Street Shop,Yes,Yes
+No,more than 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,Yes
+No,less than 11,Street Shop,Yes,No
+No,from 11  to 14,Street Shop,No,Yes
+No,more than 14,Street Shop,No,No
+No,more than 14,Street Shop,Yes,Yes
+No,more than 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,Yes,No
+No,more than 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,No
+No,less than 11,Street Shop,No,Yes
+Yes,less than 11,Street Shop,Yes,No
+No,from 11  to 14,Street Shop,No,No
+No,more than 14,Street Shop,Yes,No
+No,from 11  to 14,Begging or collecting from dustbin,Yes,No
+No,from 11  to 14,Street Shop,Yes,No
+No,less than 11,Begging or collecting from dustbin,No,No
+No,less than 11,Begging or collecting from dustbin,No,No
+No,from 11  to 14,Begging or collecting from dustbin,No,Yes
+No,less than 11,Street Shop,No,No
+No,more than 14,Begging or collecting from dustbin,Yes,Yes
+No,less than 11,Begging or collecting from dustbin,No,No
+No,more than 14,Street Shop,Yes,Yes
+No,more than 14,Street Shop,No,No
+No,less than 11,Street Shop,Yes,No
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,less than 11,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Begging or collecting from dustbin,No,Yes
+No,more than 14,Street Shop,Yes,Yes
+Yes,from 11  to 14,Street Shop,Yes,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,Yes,Yes
+No,more than 14,Street Shop,No,No
+No,more than 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,more than 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,Yes
+No,more than 14,Street Shop,No,Yes
+Yes,less than 11,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,No
+Yes,more than 14,Street Shop,Yes,Yes
+Yes,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Begging or collecting from dustbin,Yes,No
+No,less than 11,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,less than 11,Street Shop,No,No
+No,from 11  to 14,Street Shop,Yes,No
+Yes,less than 11,Street Shop,No,No
+No,more than 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,less than 11,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+No,less than 11,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,Yes,Yes
+Yes,more than 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,No
+Yes,more than 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,Yes
+No,less than 11,Street Shop,No,No
+Yes,more than 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,more than 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Begging or collecting from dustbin,No,Yes
+Yes,from 11  to 14,Begging or collecting from dustbin,No,No
+Yes,more than 14,Street Shop,No,Yes
+Yes,less than 11,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,less than 11,Street Shop,No,No
+Yes,less than 11,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,Yes,Yes
+Yes,less than 11,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,more than 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,Yes
+Yes,less than 11,Street Shop,No,No
+Yes,less than 11,Street Shop,No,No
+Yes,less than 11,Begging or collecting from dustbin,Yes,No
+Yes,more than 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,No
+Yes,less than 11,Street Shop,No,No
+No,more than 14,Street Shop,No,No
+Yes,more than 14,Street Shop,Yes,No
+Yes,from 11  to 14,Street Shop,No,No
+No,less than 11,Begging or collecting from dustbin,No,Yes
+Yes,less than 11,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Begging or collecting from dustbin,No,No
+Yes,more than 14,Street Shop,Yes,No
+No,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Begging or collecting from dustbin,No,No
+No,less than 11,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,less than 11,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,less than 11,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,Yes
+No,less than 11,Street Shop,No,No
+No,less than 11,Street Shop,No,No
+No,less than 11,Street Shop,No,Yes
+No,more than 14,Begging or collecting from dustbin,No,No
+No,from 11  to 14,Street Shop,No,Yes
+No,less than 11,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Begging or collecting from dustbin,No,No
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,Yes,Yes
+Yes,more than 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Begging or collecting from dustbin,No,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Begging or collecting from dustbin,No,No
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,Yes,Yes
+Yes,more than 14,Street Shop,Yes,Yes
+No,more than 14,Street Shop,No,Yes
+Yes,less than 11,Street Shop,No,No
+No,less than 11,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+No,less than 11,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,Yes,Yes
+No,less than 11,Begging or collecting from dustbin,No,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,Yes,Yes
+No,less than 11,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,Yes,Yes
+Yes,less than 11,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,Yes,Yes
+Yes,less than 11,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,Yes,No
+Yes,less than 11,Street Shop,No,No
+No,less than 11,Street Shop,Yes,No
+Yes,less than 11,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,less than 11,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,Yes,Yes
+Yes,from 11  to 14,Street Shop,Yes,Yes
+Yes,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Begging or collecting from dustbin,Yes,No
+Yes,less than 11,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Begging or collecting from dustbin,No,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,Yes,No
+Yes,from 11  to 14,Street Shop,Yes,No
+Yes,more than 14,Street Shop,No,No
+Yes,less than 11,Street Shop,Yes,No
+Yes,from 11  to 14,Street Shop,Yes,No
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,more than 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,less than 11,Street Shop,Yes,No
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,less than 11,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,more than 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,No
+Yes,more than 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Begging or collecting from dustbin,No,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,less than 11,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,Yes,No
+No,less than 11,Begging or collecting from dustbin,No,Yes
+Yes,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Begging or collecting from dustbin,No,No
+No,from 11  to 14,Street Shop,No,No
+No,more than 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,less than 11,Street Shop,No,No
+Yes,less than 11,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Begging or collecting from dustbin,No,Yes
+Yes,less than 11,Street Shop,Yes,Yes
+Yes,from 11  to 14,Street Shop,Yes,No
+Yes,more than 14,Street Shop,Yes,Yes
+Yes,from 11  to 14,Begging or collecting from dustbin,No,No
+Yes,more than 14,Begging or collecting from dustbin,Yes,Yes
+No,from 11  to 14,Begging or collecting from dustbin,Yes,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,Yes,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Begging or collecting from dustbin,No,No
+No,from 11  to 14,Street Shop,Yes,No
+No,from 11  to 14,Street Shop,Yes,Yes
+Yes,more than 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,Yes,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,Yes,Yes
+Yes,from 11  to 14,Begging or collecting from dustbin,Yes,Yes
+Yes,less than 11,Street Shop,Yes,Yes
+No,more than 14,Street Shop,No,Yes
+Yes,less than 11,Street Shop,Yes,Yes
+Yes,from 11  to 14,Begging or collecting from dustbin,No,No
+Yes,less than 11,Street Shop,Yes,No
+No,from 11  to 14,Street Shop,No,No
+No,less than 11,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,Yes,Yes
+Yes,more than 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,Yes,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Begging or collecting from dustbin,No,No
+Yes,more than 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,Yes
+No,less than 11,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,less than 11,Street Shop,Yes,Yes
+Yes,less than 11,Street Shop,No,No
+No,from 11  to 14,Begging or collecting from dustbin,No,No
+No,less than 11,Begging or collecting from dustbin,No,No
+No,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,Yes
+No,less than 11,Street Shop,No,No
+No,from 11  to 14,Begging or collecting from dustbin,No,No
+No,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Begging or collecting from dustbin,No,No
+Yes,from 11  to 14,Street Shop,Yes,Yes
+No,less than 11,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+No,less than 11,Street Shop,No,No
+No,less than 11,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+No,more than 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,more than 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+No,more than 14,Street Shop,No,Yes
+No,more than 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,more than 14,Street Shop,No,Yes
+No,less than 11,Street Shop,No,No
+No,less than 11,Street Shop,Yes,Yes
+No,from 11  to 14,Street Shop,No,Yes
+No,more than 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,Yes
+No,more than 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,No
+No,more than 14,Street Shop,No,Yes
+No,less than 11,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,Yes,Yes
+No,more than 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,Yes
+No,less than 11,Street Shop,No,No
+No,from 11  to 14,Begging or collecting from dustbin,No,Yes
+No,less than 11,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,less than 11,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,more than 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,more than 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,No
+No,less than 11,Street Shop,No,No
+No,more than 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,No
+No,less than 11,Street Shop,No,No
+No,less than 11,Street Shop,No,No
+No,from 11  to 14,Begging or collecting from dustbin,No,No
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,less than 11,Street Shop,No,No
+No,less than 11,Street Shop,No,No
+No,more than 14,Street Shop,No,Yes
+No,less than 11,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+No,more than 14,Street Shop,Yes,Yes
+No,more than 14,Street Shop,Yes,Yes
+Yes,more than 14,Street Shop,Yes,Yes
+No,from 11  to 14,Street Shop,No,No
+No,less than 11,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+No,less than 11,Street Shop,No,No
+No,more than 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,Yes
+Yes,more than 14,Street Shop,No,Yes
+No,more than 14,Street Shop,Yes,Yes
+No,more than 14,Street Shop,Yes,No
+Yes,more than 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Begging or collecting from dustbin,No,Yes
+Yes,more than 14,Street Shop,Yes,Yes
+Yes,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+No,more than 14,Street Shop,No,No
+Yes,more than 14,Street Shop,Yes,Yes
+No,less than 11,Street Shop,No,No
+No,less than 11,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,Yes,No
+No,from 11  to 14,Street Shop,No,Yes
+No,less than 11,Street Shop,No,No
+Yes,less than 11,Begging or collecting from dustbin,No,No
+Yes,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,less than 11,Street Shop,Yes,No
+No,less than 11,Street Shop,No,No
+Yes,less than 11,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+No,less than 11,Street Shop,No,No
+Yes,less than 11,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+Yes,less than 11,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,Yes
+No,more than 14,Street Shop,No,No
+No,more than 14,Street Shop,No,Yes
+Yes,less than 11,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,Yes
+No,more than 14,Street Shop,No,Yes
+No,less than 11,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,No
+No,from 11  to 14,Street Shop,No,No
+Yes,less than 11,Street Shop,No,No
+Yes,from 11  to 14,Street Shop,No,Yes
+No,from 11  to 14,Street Shop,No,No
+No,less than 11,Begging or collecting from dustbin,No,No
+Yes,from 11  to 14,Street Shop,No,No
+No,more than 14,Street Shop,No,Yes
+No,more than 14,Street Shop,No,Yes
+Yes,from 11  to 14,Street Shop,No,No
+No,less than 11,Street Shop,No,Yes
+No,less than 11,Street Shop,No,No
